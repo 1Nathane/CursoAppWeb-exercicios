@@ -1,0 +1,22 @@
+{
+  "name": "exercicios_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ex01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Nathane/node.git"
+  },
+  "author": "nathane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1Nathane/node/issues"
+  },
+  "homepage": "https://github.com/1Nathane/node#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
